@@ -46,8 +46,6 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: Data science, machine learning, artificial intelligence
   - <b>Frequency</b>: Weekly
 
-- [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
-
 - [O'Reilly Data Show](https://www.oreilly.com/topics/oreilly-data-show-podcast)
 
 - [Super DataScience](https://www.superdatascience.com/podcast/)
