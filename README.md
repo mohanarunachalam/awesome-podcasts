@@ -4,77 +4,25 @@ List of podcasts which are helpful for software engineers/programmers.
 
 ## Table of Contents
 
-- [.NET](#net)
-- [Agile](#agile)
-- [Android](#android)
-- [Angular](#angular)
-- [C++](#c)
 - [Data Science/Machine Learning](#data-sciencemachine-learning)
+- [Python](#python)
+- [Java](#java)
+- [Web development](#web-development)
+
+- [Android](#android)
+
+- [Angular](#angular)
+
 - [Devops](#devops)
 - [Functional Programming](#functional-programming)
 - [Free BSD](#freebsd)
 - [General Software](#general-software)
-- [Go Programming Language](#go-programming-language)
-- [Python](#python)
-- [ReasonML](#reasonml)
+
 - [Ruby/Rails](#rubyrails)
-- [Kotlin](#kotlin)
-- [Java](#java)
-- [Swift](#swift)
-- [Rust Programming Language](#rust-programming-language)
+
 - [Security](#security)
-- [Web development](#web-development)
 
 
-
-## .NET
-
-- [.NET Rocks](https://www.dotnetrocks.com/)
-
-  - <b>Description</b>: .NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness.
-  - <b>Frequency</b>: Two episodes every week
-
-- [HERDING CODE](http://herdingcode.com)
-
-  - <b>Description</b>: show covering a broad range of .NET-related topics in considerable technical depth.
-  - <b>Frequency</b>: Monthly once
-
-## Agile
-- [Agile For Humans](https://ryanripley.com/agile-for-humans/)
-
-  - <b>Description</b>: Interviews people about Agile and becoming better at Agile
-  - <b>Frequency</b>: Once a week
-
-## Android
-
-- [Android Developers Backstage](http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage)
-
-  - <b>Description</b>: Podcast interviewing Google engineers about the latest Android APIs
-  - <b>Frequency</b>  : Monthly once
-
-- [Android Snacks](http://androidsnacks.com)
-
-  - <b>Description</b>: The TL;DR of last weeks Android developer news
-  - <b>Frequency</b>  : Weekly once
-
-- [Fragmented Podcast](http://fragmentedpodcast.com/category/episodes/)
-
-  - <b>Description</b>: An Android Developer Podcast
-  - <b>Frequency</b>  : Weekly once or twice
-  
-## Angular
-
-- [Adventures in Angular](https://devchat.tv/adv-in-angular)
-
-  - <b>Description</b>: Developments in the Angular community, tools, techniques, and ecosystem.
-  - <b>Frequency</b>  : Once every week
-
-## C++
-
-- [CppCast](http://cppcast.com/)
-
-  - <b>Description</b>: All about C++ and many great interviews with prominent library and tool authors.
-  - <b>Frequency</b>  : Once every week
 
 
 ## Data Science/Machine Learning
@@ -113,6 +61,32 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : Every other week
 
 - [This Week in Machine Learning & AI (TWiML & AI)](https://twimlai.com/)
+
+
+## Android
+
+- [Android Developers Backstage](http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage)
+
+  - <b>Description</b>: Podcast interviewing Google engineers about the latest Android APIs
+  - <b>Frequency</b>  : Monthly once
+
+- [Android Snacks](http://androidsnacks.com)
+
+  - <b>Description</b>: The TL;DR of last weeks Android developer news
+  - <b>Frequency</b>  : Weekly once
+
+- [Fragmented Podcast](http://fragmentedpodcast.com/category/episodes/)
+
+  - <b>Description</b>: An Android Developer Podcast
+  - <b>Frequency</b>  : Weekly once or twice
+  
+## Angular
+
+- [Adventures in Angular](https://devchat.tv/adv-in-angular)
+
+  - <b>Description</b>: Developments in the Angular community, tools, techniques, and ecosystem.
+  - <b>Frequency</b>  : Once every week
+
 
 
 ## Devops
@@ -243,14 +217,6 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : Once every week
 
 
-## Go Programming Language
-
-- [GoTime](https://changelog.com/gotime)
-
-  - <b>Description</b>: Everything connected with Go Programming language
-  - <b>Frequency</b>  : Once every week
-
-
 ## Python
 
 - [Podcast.\_\_init\_\_](https://pythonpodcast.com/)
@@ -264,13 +230,6 @@ List of podcasts which are helpful for software engineers/programmers.
 - [Talk Python To Me](https://talkpython.fm/)
   - <b>Description</b>: Talk Python to Me is a weekly podcast hosted by Michael Kennedy. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).
   - <b>Frequency</b>  : Once every week
-
-## ReasonML
-
-- [Reason Town](https://reason.town/)
-
-  - <b>Description</b>: A podcast about the ReasonML language
-  - <b>Frequency</b>  : Approximately once a month
 
 
 ## Ruby/Rails
@@ -295,13 +254,6 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Description</b>: A weekly exploration into the people who make Ruby what it is.
   - <b>Frequency</b>  : Once every week
 
-## Kotlin
-
-- [Talking kotlin](http://talkingkotlin.com)
-
-  - <b>Description</b>: Kotlin and more
-  - <b>Frequency</b>  : Approximately once a month
-
 ## Java
 
 - [Enterprise Java Newscast](http://www.enterprisejavanews.com)
@@ -315,19 +267,6 @@ List of podcasts which are helpful for software engineers/programmers.
   - <b>Frequency</b>  : Approximately once a month
 
 
-## Swift
-
-- Swift Unwrapped ([By Spec](https://spec.fm/podcasts/swift-unwrapped) | [iTunes](https://itunes.apple.com/us/podcast/swift-unwrapped/id1209817203?mt=2))
-
-  - <b>Description</b>: An audio spin off of Swift Weekly Brief and discussions on the Swift programming language.
-  - <b>Frequency</b>  : Once every week
-
-
-## Rust programming language
-
-- [New Rustacean](https://newrustacean.com/)
-
-- [The Rusty Spike](https://rusty-spike.blubrry.net/)
 
 ## Security
 
